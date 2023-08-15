@@ -4,7 +4,7 @@ function preinit() {
         init(); 
     }
     else {
-        location.replace("https://www.downdraftio.github.io"); 
+        location.replace("https://downdraftio.github.io/"); 
     }
 }
 
