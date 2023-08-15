@@ -13,4 +13,4 @@ function init() {
 }
 
 
-preinit(); 
+setTimeout(preinit, 2000);  
