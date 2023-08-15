@@ -1,5 +1,5 @@
 function preinit() { 
-    let access = sessionStorage.getItem("token");
+    let access = localStorage.getItem("token");
     if (access === "qeklrj23klj2389s") {
         init(); 
     }
