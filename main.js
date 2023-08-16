@@ -201,4 +201,4 @@ function finish() {
     setTimeout(()=>{sessionStorage.removeItem("token"); location.replace("https://downdraftio.github.io/")}, 25000); 
 }
 
-welcomemessage();
+preinit();
